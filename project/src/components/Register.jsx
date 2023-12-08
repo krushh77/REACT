@@ -1,4 +1,12 @@
-function Register (){
-    return <h1>Register page</h1>
+import Navbar from "./Navbar";
+
+function Register() {
+    return (
+        <div>
+            {/* <Navbar /> */}
+            <h1>Register</h1>
+        </div>
+    )
 }
-export default Register
+
+export default Register;
