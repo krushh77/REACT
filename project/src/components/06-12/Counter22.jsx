@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function Counter2 (){
+function Counter22 (){
 
     const [Counter, setCounter]= useState(100);
     console.log(Counter, "Counter")
@@ -12,7 +12,7 @@ function Counter2 (){
         setCounter((prevstate)=> prevstate - 1)
     }
     function Reset(){
-        setCounter(100)
+        setCounter(100);
     }
 
 
@@ -26,4 +26,4 @@ function Counter2 (){
           
     )
 }
-export default Counter2;
+export default Counter22;

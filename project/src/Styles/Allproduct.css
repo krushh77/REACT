@@ -1,0 +1,42 @@
+.body{
+    background-color: rgb(198, 195, 195);
+    margin-top: -40px;
+}
+.title{
+    font-size: 40px;
+}
+.maindiv{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.products-data{
+    width: 32%;
+    margin-bottom: 50px;
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+margin-left: 500px;
+justify-content: center;
+
+}
+.products-data:hover{
+    box-shadow: 10px 10px 10px rgb(87, 83, 83);
+}
+
+
+.productinfo{
+    font-size: 13px;
+
+}
+.images{
+    width: 80%;
+    height: 200px;
+    padding-top: 40px;
+}
+
+
+
+
